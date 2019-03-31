@@ -1,0 +1,17 @@
+export const TICK = "TICK";
+export const INCREMENT = "INCREMENT";
+export const DECREMENT = "DECREMENT";
+export const INCREMENT_POST = "INCREMENT_POST";
+export const DECREMENT_POST = "DECREMENT_POST";
+export const INCREMENT_ERR = "INCREMENT_ERR";
+export const DECREMENT_ERR = "DECREMENT_ERR";
+export const DELETE_POST = "DELETE_POST";
+export const DELETE = "DELETE";
+export const RESET = "RESET";
+export const NEW_POST = "NEW_POST";
+export const NEW_POST_ERR = "NEW_POST_ERR";
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_ERR = 'LOGIN_ERR';
+export const SIGNOUT_SUCCESS = 'SIGNOUT_SUCCESS';
+export const SIGNUP_SUCCESS = 'SIGNUP_SUCCESS';
+export const SIGNUP_ERR = 'SIGNUP_ERR';
